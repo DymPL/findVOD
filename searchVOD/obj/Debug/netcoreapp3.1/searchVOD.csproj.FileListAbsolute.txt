@@ -1,0 +1,13 @@
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.exe
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.deps.json
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.runtimeconfig.json
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.runtimeconfig.dev.json
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.dll
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\bin\Debug\netcoreapp3.1\searchVOD.pdb
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.csprojAssemblyReference.cache
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.AssemblyInfoInputs.cache
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.AssemblyInfo.cs
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.csproj.CoreCompileInputs.cache
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.dll
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.pdb
+C:\Users\drzepiejewski\source\repos\searchVOD\searchVOD\obj\Debug\netcoreapp3.1\searchVOD.genruntimeconfig.cache
